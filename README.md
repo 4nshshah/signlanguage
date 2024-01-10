@@ -1,6 +1,5 @@
 # Sign Language Recognition Project
 
-![Sign Language Recognition]
 
 ## Overview
 
