@@ -9,12 +9,8 @@ Welcome to the Sign Language Recognition project! This project aims to empower t
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
